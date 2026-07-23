@@ -1,0 +1,22 @@
+{
+    "name": "glass-fruit-slots",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@types/node": "^24.10.0",
+        "@types/three": "^0.185.1",
+        "sass": "^1.93.3",
+        "typescript": "~5.9.3",
+        "vite": "^7.1.7"
+    },
+    "dependencies": {
+        "gsap": "^3.15.0",
+        "three": "^0.185.1"
+    }
+}
